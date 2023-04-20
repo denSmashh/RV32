@@ -1,0 +1,7 @@
+RV32.cache/
+RV32.hw/
+RV32.runs/
+RV32.ip_user_files/
+RV32.sim/
+*.xpr
+tb/program*
